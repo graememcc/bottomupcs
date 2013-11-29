@@ -641,7 +641,7 @@
 	<para>Electronically, the boolean operations are implemented
 	in <emphasis>gates</emphasis> made by
 	<emphasis>transistors</emphasis>.  This is why you might have
-	heard about transistor counts and things like Moores Law.  The
+	heard about transistor counts and things like Moore's Law.  The
 	more transistors, the more gates, the more things you can add
 	together.  To create the modern computer, there are an awful
 	lot of gates, and an awful lot of transistors.  Some of the
