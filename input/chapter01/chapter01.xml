@@ -232,7 +232,7 @@
 	<computeroutput>2<superscript>8</superscript> =
 	256</computeroutput> unique representations, more than enough
 	for our alphabet combinations.  We call a group of 8 bits a
-	<emphasis>byte</emphasis>.  Guess how bit a C
+	<emphasis>byte</emphasis>.  Guess how big a C
 	<computeroutput>char</computeroutput> variable is?  One
 	byte.</para>
 
