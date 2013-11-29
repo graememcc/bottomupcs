@@ -1624,7 +1624,7 @@ multiplex the output of the many sets, which can also add latency.
       <para><emphasis>Acquire</emphasis> semantics is like a fence
       that only allows load and stores to move downwards through it.
       That is, when this load or store is complete you can be
-      gaurnteed that any later load or stores will see the value
+      guararnteed that any later load or stores will see the value
       (since they can not be moved above it).</para>
 
       <para><emphasis>Release</emphasis> semantics is the opposite,
